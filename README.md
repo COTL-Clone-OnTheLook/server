@@ -42,6 +42,6 @@ Distributed under the MIT License. See [LICENSE](./LICENSE) for more information
 [stars-shield]: https://img.shields.io/github/stars/COTL-Clone-OnTheLook/server.svg?style=for-the-badge
 [stars-url]: https://github.com/COTL-Clone-OnTheLook/server/stargazers
 [issues-shield]: https://img.shields.io/github/issues/COTL-Clone-OnTheLook/server.svg?style=for-the-badge
-[issues-url]: https://COTL-Clone-OnTheLook/server/issues
+[issues-url]: https://github.com/COTL-Clone-OnTheLook/server/issues
 [license-shield]: https://img.shields.io/github/license/COTL-Clone-OnTheLook/server.svg?style=for-the-badge
 [license-url]: https://github.com/COTL-Clone-OnTheLook/server/blob/master/LICENSE.txt
