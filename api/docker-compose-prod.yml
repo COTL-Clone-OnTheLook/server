@@ -1,0 +1,19 @@
+version: "3.8"
+services:
+  backend-web-prod:
+    container_name: weus-admin
+    build:
+      context: .
+      dockerfile: dockerfiles/Dockerfile
+    ports:
+      - "80:80"
+    expose:
+      - 8080
+    env_file:
+      - env/prod.env
+    networks:
+      - web_prod
+
+networks:
+  web_prod:
+    driver: bridge
